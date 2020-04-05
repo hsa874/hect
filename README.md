@@ -1,0 +1,2 @@
+# hect
+Técnico informático
